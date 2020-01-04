@@ -1,2 +1,2 @@
-# make-os if a project for building a system image like linux 
+# make-os is a project for building a system image like linux 
 x86引导 
