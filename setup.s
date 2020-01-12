@@ -8,6 +8,7 @@ begbss:
 entry start
 start:
 	j start
+.org 512
 .text
 endtext:
 .data
